@@ -3,18 +3,17 @@
 :root {
     --header-bg: url('images/header.png');
     --site-bg: url("images/canvas.png");
-    --accent-color: #b75cf5;
-    --select-color: #ebc1ff;
-    --link-color: #8650c1;
-    --bg-color: #e3ceff;
-    --bg-color2: #f8f0ff;
-    --text-color: #191919;
+    --accent-color: #925CF5;
+    --select-color: #9952BA;
+    --link-color: #8742FF;
+    --bg-color: #5A3787;
+    --bg-color2: #402969;
+    --text-color: #C3ADFF;
     --border-color: #552197;
-    /*--gradient-bg: linear-gradient(0deg, #CADCFF00 0%, #fff 100%);*/
-    --post-header-color: #e3ceff;
-    --post-shadow-color: #54219760;
-    --outline-color: #996ed6;
-    --outline-color2: #e5ceff;
+    --post-header-color: #370E6E;
+    --post-shadow-color: ##0B0317;
+    --outline-color: #4200A1;
+    --outline-color2: #6722B5;
 }
 /* you can get hex codes from sites like this:
    https://palettes.shecodes.io/
